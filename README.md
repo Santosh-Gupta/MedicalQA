@@ -99,3 +99,7 @@ https://1drv.ms/u/s!An_n1-LB8-2dgfpS66JqPuBXCRqQHQ
 5-5-19
 Most comprehensive similarity embeddings file (current not able to load in Colab, even in TPU mode)
 https://1drv.ms/u/s!An_n1-LB8-2dgfpRUPHMtWcK9qJrIQ
+
+5-6-19
+Embeddings for the colab GPU demo. ~120k data points. Takes about an hour to load so we probably shouldn't go over that
+https://drive.google.com/open?id=1gSqiSuUiEroWVrJ9mPLgvOIllR2ZJ5iE

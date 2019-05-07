@@ -1,3 +1,17 @@
+#Visitors:
+
+We made a version of this repo that is better suited for the public, please visit
+
+https://github.com/Santosh-Gupta/DocProduct
+
+Our Devpost page
+
+https://devpost.com/software/nlp-doctor
+
+Our Basic Colab demo
+
+https://colab.research.google.com/drive/1XekvGrO6s7nueK7mCuRPbxZyq3LoiW-d
+
 # DocProduct
 
 ## Initial Tasks:
